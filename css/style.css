@@ -1,0 +1,42 @@
+
+
+
+body { background: #D8BFD8; }
+header { margin-top: 10px; }
+
+.item { margin-bottom: 25px; }
+.main-caption 
+{
+	font-size:250%;
+    text-align:center;
+	color:#008080;
+	font-family: verdana;
+}
+.button-style
+{
+	text-align:center;
+	background-color:#4CAF50;
+	
+}
+
+.input-style
+{
+	text-align:center;
+		background-color:red;
+}
+.button 
+{
+	background-color:#008080;
+}
+#findVideos
+{
+	height: 4em;
+	width: 20em;
+}
+
+
+
+
+
+-webkit-overflow-scrolling: touch; /* плавный скрол*/
+
